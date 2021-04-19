@@ -73,6 +73,12 @@ input, select, textarea {
 }
 
 /* Row */
+	.center {
+ 	 	display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 80%;
+	}
 
 	.row {
 		display: flex;
